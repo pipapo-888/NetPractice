@@ -20,8 +20,8 @@ Each level is presented as a visual network diagram in a browser-based interface
 
 ### Execution
 
-```bash
-bash run.sh
+```zsh
+./run.sh
 ```
 
 This opens the NetPractice interface in your browser. Select a level from the dropdown menu and configure the network diagram until all devices can communicate.
